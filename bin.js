@@ -2,27 +2,30 @@
 const program = require('commander');
 
 program
-  .command('* <a> <b> [others...]')
+.command('* <a> <b> [others...]')
   .action((a, b, others) => {
-    console.log([a, b, ...others].reduce((acc, cur) => acc * cur));
-  });
+    console.log([
+      
+      
+      a, b, ...others].reduce((acc, cur) => acc * cur));
+      });
 
 program
   .command('/ <a> <b> [others...]')
-  .action((a, b, others) => {
+  .action((a, b,   others) => {
     console.log([a, b, ...others].reduce((acc, cur) => acc / cur));
   });
 
 program
-  .command('+ <a> <b> [others...]')
+  .command  ('+ <a> <b> [others...]')
   .action((a, b, others) => {
-    console.log([a, b, ...others].reduce((acc, cur) => acc + cur));
+    console.log([a, b, ...others].reduce((acc, cur) => { return acc + cur }));
   });
 
 program
   .command('- <a> <b> [others...]')
   .action((a, b, others) => {
-    console.log([a, b, ...others].reduce((acc, cur) => acc - cur));
-  });
+    console.log([a, b, ...others].reduce((acc, cur) => acc - cur))
+  })
 
 program.parse(process.argv);
