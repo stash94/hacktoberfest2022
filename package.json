@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nafarlee/ci-training/issues"
   },
-  "homepage": "https://github.com/nafarlee/ci-training#readme"
+  "homepage": "https://github.com/nafarlee/ci-training#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
