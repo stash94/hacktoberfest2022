@@ -2,7 +2,7 @@
 const program = require('commander');
 
 program
-.command('* <a> <b> [others...]')
+.command('x <a> <b> [others...]')
   .action((a, b, others) => {
     console.log([
       
