@@ -6,7 +6,7 @@ Chapter 0a. Just..run it?
 
 As the other README said, just try to run it... wait, how do you use this?
 
-**Interrogate**
+> Interrogation Time!
 
 Chapter 0b. ...or how to write actual instructions
 --------------------------------------------------
