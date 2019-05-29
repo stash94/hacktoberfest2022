@@ -1,4 +1,6 @@
 CI Training &middot; [![CircleCI](https://circleci.com/gh/nafarlee/ci-training.svg?style=svg)](https://circleci.com/gh/nafarlee/ci-training)
 ===========
 
-Just run it
+To run program:
+Run command: node calculator.js
+
