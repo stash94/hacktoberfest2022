@@ -83,6 +83,12 @@ Chapter 3b. Exercises
 Chapter 4a. Bundling for CLI
 ----------------------------
 
+This is supposed to be a CLI application. It was being distributed as a single
+file for people to use, but how was the previous maintainer doing that? There is
+no mention of any tools like that in the README or the `package.json`...
+
+> Interrogation Time!
+
 Chapter 4b. Exercises
 ---------------------
 
