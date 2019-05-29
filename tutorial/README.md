@@ -28,8 +28,8 @@ As the other README said, just try to run it... wait, how do you use this?
 
 > Interrogation Time!
 
-Chapter 0b. ...or how to write actual instructions
---------------------------------------------------
+Chapter 0b. Exercises
+----------------------
 
 Write actual instructions in the other README on how to use it.
 
@@ -40,8 +40,8 @@ Now that we know *how* to run it, let's try it. Does it work?
 
 > Interrogation Time!
 
-Chapter 1b. ...and how to automate them
----------------------------------------
+Chapter 1b. Exercises
+---------------------
 
 Referencing the CircleCI documentation linked in the *References* section, add
 a step to the `.circleci/config.yml` to automate dependency installation **in
@@ -50,20 +50,20 @@ the cloud**.
 Chapter 2a. Linting
 -------------------
 
-Chapter 2b. ...and how to automate it
--------------------------------------
+Chapter 2b. Exercises
+---------------------
 
 Chapter 3a. Testing
 -------------------
 
-Chapter 3b. ...and how to automate it
--------------------------------------
+Chapter 3b. Exercises
+---------------------
 
 Chapter 4a. Bundling for CLI
 ----------------------------
 
-Chapter 4b. ...and how to automate it
--------------------------------------
+Chapter 4b. Exercises
+---------------------
 
 References
 ----------
