@@ -65,6 +65,14 @@ Chapter 2b. Exercises
 Chapter 3a. Linting
 -------------------
 
+It was advertised that this project had a way to "enforce good code style" and 
+"prevent errors", but the style seems out of wack.
+
+We should run that "code styler" to see what needs to be fixed..How do we do
+that?
+
+> Interrogation Time!
+
 Chapter 3b. Exercises
 ---------------------
 
