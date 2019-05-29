@@ -92,6 +92,15 @@ no mention of any tools like that in the README or the `package.json`...
 Chapter 4b. Exercises
 ---------------------
 
+- Add the intended bundler package to the devDependencies in the `package.json`
+- Add an npm script to the `package.json` to make bundling simple
+- Add steps to the CircleCI config to:
+  - Run the bundler
+  - Archive the bundled application as an artifact of the build
+
+> Note: You must search a little deeper in the CircleCI documentation to figure
+> out how to do this! If you get stuck, as your instructor.
+
 References
 ----------
 
