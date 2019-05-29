@@ -59,8 +59,9 @@ advertised...How do we do that?
 Chapter 2b. Exercises
 ---------------------
 
+- Change the npm test script in the `package.json` to make running tests simple
+- Fix the broken code that the failing test indicates
 - Add tests for the other 3 mathematical operations
-- Add an npm script to the `package.json` to make running tests simple
 - Add a step to the CircleCI config to automate running tests
 
 Chapter 3a. Linting
