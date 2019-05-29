@@ -16,8 +16,16 @@ Write actual instructions in the other README on how to use it.
 Chapter 1a. Dependencies
 ------------------------
 
+Now that we know *how* to run it, let's try it. Does it work?
+
+> Interrogation Time!
+
 Chapter 1b. ...and how to automate them
 ---------------------------------------
+
+Referencing the CircleCI documentation linked in the *References* section, add
+steps to the `.circleci/config.yml` to automate dependency installation **in the
+cloud**.
 
 Chapter 2a. Linting
 -------------------
