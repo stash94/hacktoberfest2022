@@ -47,13 +47,13 @@ Referencing the CircleCI documentation linked in the *References* section, add
 a step to the `.circleci/config.yml` to automate dependency installation **in
 the cloud**.
 
-Chapter 2a. Linting
+Chapter 2a. Testing
 -------------------
 
 Chapter 2b. Exercises
 ---------------------
 
-Chapter 3a. Testing
+Chapter 3a. Linting
 -------------------
 
 Chapter 3b. Exercises
