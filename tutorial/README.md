@@ -31,7 +31,7 @@ As the other README said, just try to run it... wait, how do you use this?
 Chapter 0b. Exercises
 ----------------------
 
-Write actual instructions in the other README on how to use it.
+0. Write actual instructions in the other README on how to use it.
 
 Chapter 1a. Dependencies
 ------------------------
@@ -43,10 +43,10 @@ Now that we know *how* to run it, let's try it. Does it work?
 Chapter 1b. Exercises
 ---------------------
 
-- Add the required dependency back to `package.json`
-- Referencing the CircleCI documentation linked in the *References* section, add
-  a step to the `.circleci/config.yml` to automate dependency installation **in
-  the cloud**.
+0. Add the required dependency back to `package.json`
+1. Referencing the CircleCI documentation linked in the *References* section, add
+   a step to the `.circleci/config.yml` to automate dependency installation **in
+   the cloud**.
 
 Chapter 2a. Testing
 -------------------
@@ -59,10 +59,10 @@ advertised...How do we do that?
 Chapter 2b. Exercises
 ---------------------
 
-- Change the npm test script in the `package.json` to make running tests simple
-- Fix the broken code that the failing test indicates
-- Add tests for the other 3 mathematical operations
-- Add a step to the CircleCI config to automate running tests
+0. Change the npm test script in the `package.json` to make running tests simple
+1. Fix the broken code that the failing test indicates
+2. Add tests for the other 3 mathematical operations
+3. Add a step to the CircleCI config to automate running tests
 
 Chapter 3a. Linting
 -------------------
@@ -78,9 +78,9 @@ that?
 Chapter 3b. Exercises
 ---------------------
 
-- Add the intended linter package to the devDependencies in the `package.json`
-- Add an npm script to the `package.json` to make running the linter simple
-- Add a step to the CircleCI config to automate running the linter
+0. Add the intended linter package to the devDependencies in the `package.json`
+1. Add an npm script to the `package.json` to make running the linter simple
+2. Add a step to the CircleCI config to automate running the linter
 
 Chapter 4a. Bundling for CLI
 ----------------------------
@@ -94,11 +94,11 @@ no mention of any tools like that in the README or the `package.json`...
 Chapter 4b. Exercises
 ---------------------
 
-- Add the intended bundler package to the devDependencies in the `package.json`
-- Add an npm script to the `package.json` to make bundling simple
-- Add steps to the CircleCI config to:
-  - Run the bundler
-  - Archive the bundled application as an artifact of the build
+0. Add the intended bundler package to the devDependencies in the `package.json`
+1. Add an npm script to the `package.json` to make bundling simple
+2. Add steps to the CircleCI config to:
+  0. Run the bundler
+  1. Archive the bundled application as an artifact of the build
 
 > Note: You must search a little deeper in the CircleCI documentation to figure
 > out how to do this! If you get stuck, as your instructor.
