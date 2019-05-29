@@ -50,6 +50,11 @@ the cloud**.
 Chapter 2a. Testing
 -------------------
 
+Now that we know it runs successfully, let's try to run the "tests" that were
+advertised...How do we do that?
+
+> Interrogation Time!
+
 Chapter 2b. Exercises
 ---------------------
 
