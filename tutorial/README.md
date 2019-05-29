@@ -76,6 +76,10 @@ that?
 Chapter 3b. Exercises
 ---------------------
 
+- Add the intended linter package to the devDependencies in the `package.json`
+- Add an npm script to the `package.json` to make running the linter simple
+- Add a step to the CircleCI config to automate running the linter
+
 Chapter 4a. Bundling for CLI
 ----------------------------
 
