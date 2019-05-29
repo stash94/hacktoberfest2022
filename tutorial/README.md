@@ -24,3 +24,8 @@ Chapter 4a. Bundling for CLI
 
 Chapter 4b. ...and how to automate it
 -------------------------------------
+
+References
+----------
+
+- https://circleci.com/docs/2.0/language-javascript/
