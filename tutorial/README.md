@@ -101,6 +101,13 @@ Chapter 4b. Exercises
 > Note: You must search a little deeper in the CircleCI documentation to figure
 > out how to do this! If you get stuck, as your instructor.
 
+Conclusion
+----------
+
+Congratulations! You have gotten a taste of what CI is about. Now, if someone
+else has to work on this application, it should be straightforward for them to
+get started.
+
 References
 ----------
 
