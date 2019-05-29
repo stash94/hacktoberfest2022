@@ -1,6 +1,26 @@
 Automating Leftovers: An Introduction to C(ontinuous) I(ntegration)
 -------------------------------------------------------------------
 
+Prelude
+-------
+
+You will learn a little something about CI in the most natural way possible:
+cleaning up somebody else's mess.
+
+0. Request to be added to this project as a collaborator with **Write** access
+1. Create a new branch in this repository based off **master**
+
+> For the sake of simplicity, please make your branch name some combination of
+> your first and last name. Thank you.
+
+Follow the directions, ask the instructor questions when you get stuck, and when
+you see:
+
+> Interrogation Time!
+
+It means your instructor is going to put on an act as the person who made the
+mess you are currently cleaning up.
+
 Chapter 0a. Just..run it?
 ------------------------
 
