@@ -19,7 +19,7 @@ program
 program
   .command  ('+ <a> <b> [others...]')
   .action((a, b, others) => {
-    console.log([a, b, ...others].reduce((acc, cur) => { return acc + cur }));
+    console.log([a, b, ...others].reduce((acc, cur) => { return parseInt(parseInt(acc) + parseInt(cur))}));
   });
 
 program
