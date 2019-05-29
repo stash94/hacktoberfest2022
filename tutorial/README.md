@@ -1,6 +1,18 @@
 Automating Leftovers: An Introduction to C(ontinuous) I(ntegration)
 -------------------------------------------------------------------
 
+Chapter 0a. Just..run it?
+------------------------
+
+As the other README said, just try to run it... wait, how do you use this?
+
+**Interrogate**
+
+Chapter 0b. ...or how to write actual instructions
+--------------------------------------------------
+
+Write actual instructions in the other README on how to use it.
+
 Chapter 1a. Dependencies
 ------------------------
 
