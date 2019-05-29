@@ -43,9 +43,10 @@ Now that we know *how* to run it, let's try it. Does it work?
 Chapter 1b. Exercises
 ---------------------
 
-Referencing the CircleCI documentation linked in the *References* section, add
-a step to the `.circleci/config.yml` to automate dependency installation **in
-the cloud**.
+- Add the required dependency back to `package.json`
+- Referencing the CircleCI documentation linked in the *References* section, add
+  a step to the `.circleci/config.yml` to automate dependency installation **in
+  the cloud**.
 
 Chapter 2a. Testing
 -------------------
