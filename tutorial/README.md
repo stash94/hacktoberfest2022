@@ -4,8 +4,8 @@ Automating Leftovers: An Introduction to C(ontinuous) I(ntegration)
 Chapter 1a. Dependencies
 ------------------------
 
-Chapter 1b. ...and how to automate it
--------------------------------------
+Chapter 1b. ...and how to automate them
+---------------------------------------
 
 Chapter 2a. Linting
 -------------------
