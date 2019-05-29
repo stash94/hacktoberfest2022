@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/nafarlee/ci-training#readme",
   "devDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3",
     "jest": "^24.8.0"
   }
 }
