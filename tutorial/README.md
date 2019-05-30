@@ -80,7 +80,8 @@ Chapter 3b. Exercises
 
 0. Add the intended linter package to the devDependencies in the `package.json`
 1. Add an npm script to the `package.json` to make running the linter simple
-2. Add a step to the CircleCI config to automate running the linter
+2. Run the linter on `calculator.js` and fix the style issues it finds
+3. Add a step to the CircleCI config to automate running the linter
 
 Chapter 4a. Bundling for CLI
 ----------------------------
