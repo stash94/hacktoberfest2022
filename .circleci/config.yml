@@ -31,3 +31,11 @@ jobs:
       - run:
           name: my-tests
           command: npm test
+
+      - run:
+          name: bundle
+          command: npm run bundle
+
+      - store_artifacts:
+          path: ~/repo
+          destination: calculator
