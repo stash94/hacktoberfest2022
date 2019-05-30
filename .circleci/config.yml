@@ -24,6 +24,9 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
 
+      - run:
+          name: es-lint
+          command: npm run eslint
 
       - run:
           name: my-tests
