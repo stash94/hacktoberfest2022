@@ -99,8 +99,8 @@ Chapter 4b. Exercises
 1. Add an npm script to the `package.json` to make bundling simple
 2. Add steps to the CircleCI config to:
 
-    0. Run the bundler
-    1. Archive the bundled application as an artifact of the build
+    1. Run the bundler
+    2. Archive the bundled application as an artifact of the build
 
 > Note: You must search a little deeper in the CircleCI documentation to figure
 > out how to do this! If you get stuck, as your instructor.
