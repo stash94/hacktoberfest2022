@@ -26,7 +26,7 @@ jobs:
 
       - run:
           name: es-lint
-          command: npm run eslint
+          command: npm run eslint *.js
 
       - run:
           name: my-tests
