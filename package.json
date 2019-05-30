@@ -5,7 +5,7 @@
   "main": "calculator.js",
   "scripts": {
     "test": "jest",
-    "eslint": "npm run eslint"
+    "eslint": "eslint"
   },
   "repository": {
     "type": "git",
