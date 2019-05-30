@@ -17,7 +17,7 @@ program
 program
   .command('+ <a> <b> [others...]')
   .action((a, b, others) => {
-    console.log([a, b, ...others].reduce((acc, cur) => parseInt(acc, 10) + parseInt(cur, 10), 10));
+    console.log([a, b, ...others].reduce((acc, cur) => parseInt(acc, 10) + parseInt(cur, 10)));
   });
 
 program
