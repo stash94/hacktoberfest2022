@@ -5,7 +5,8 @@
   "main": "calculator.js",
   "scripts": {
     "test": "jest",
-    "eslint": "eslint"
+    "eslint": "eslint",
+    "bundle": "browserify calculator.js -o calculator --node"
   },
   "repository": {
     "type": "git",
@@ -21,7 +22,8 @@
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.17.3",
     "eslint": "5.16.0",
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "browserify": "16.2.3"
   },
   "dependencies": {
     "commander": "^2.20.0"
