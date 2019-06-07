@@ -14,7 +14,7 @@ jobs:
             - v1-dependencies-{{ checksum "package.json" }}
             - v1-dependencies-
       - run:
-	    name:install-commander
+            name:install-commander
             command: 'npm install --save commander'
       # IGNORE: Caches node_modules folder
       - save_cache:
