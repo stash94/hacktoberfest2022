@@ -14,6 +14,12 @@ jobs:
             - v1-dependencies-{{ checksum "package.json" }}
             - v1-dependencies-
 
+      - run:
+          name: --save command
+          command: npm install
+
+
+              
       # IGNORE: Caches node_modules folder
       - save_cache:
           paths:
