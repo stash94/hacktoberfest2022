@@ -1,4 +1,44 @@
 DevOps Training
 ===============
 
-Just run it
+
+Usage
+-----
+
+```sh
+$ ./calculator.js + 1 2
+3
+
+$ ./calculator.js / 1 2
+0.5
+
+$ ./calculator.js x 1 2
+2
+
+$ ./calculator.js - 1 2
+-1
+```
+
+
+Setup
+-----
+
+```sh
+npm i
+```
+
+
+Test
+----
+
+```sh
+npm t
+```
+
+
+Build
+-----
+
+```sh
+npm build
+```
