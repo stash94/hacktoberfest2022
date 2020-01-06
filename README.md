@@ -1,4 +1,4 @@
-CI Training
-===========
+DevOps Training
+===============
 
 Just run it
