@@ -1,5 +1,5 @@
 {
-  "name": "ci-training",
+  "name": "devops-training",
   "version": "0.0.1",
   "description": "",
   "bin": "calculator.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nafarlee/ci-training.git"
+    "url": "git+https://github.com/nafarlee/devops-training.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nafarlee/ci-training/issues"
+    "url": "https://github.com/nafarlee/devops-training/issues"
   },
-  "homepage": "https://github.com/nafarlee/ci-training#readme",
+  "homepage": "https://github.com/nafarlee/devops-training#readme",
   "devDependencies": {
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-plugin-import": "2.19.1",
