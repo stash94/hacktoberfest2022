@@ -2,7 +2,7 @@
   "name": "ci-training",
   "version": "0.0.1",
   "description": "",
-  "main": "calculator.js",
+  "bin": "calculator.js",
   "scripts": {
     "useless": "printf cool"
   },
