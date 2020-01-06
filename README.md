@@ -32,6 +32,7 @@ Test
 ----
 
 ```sh
+$ npm run lint
 $ npm t
 ```
 
