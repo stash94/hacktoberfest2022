@@ -41,5 +41,5 @@ Build
 -----
 
 ```sh
-$ npm build
+$ npm run build
 ```
