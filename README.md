@@ -24,7 +24,7 @@ Setup
 -----
 
 ```sh
-npm i
+$ npm i
 ```
 
 
@@ -32,7 +32,7 @@ Test
 ----
 
 ```sh
-npm t
+$ npm t
 ```
 
 
@@ -40,5 +40,5 @@ Build
 -----
 
 ```sh
-npm build
+$ npm build
 ```
