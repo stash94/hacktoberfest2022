@@ -4,7 +4,9 @@
   "description": "",
   "bin": "calculator.js",
   "scripts": {
-    "useless": "printf cool"
+    "test": "jest",
+    "lint": "eslint .",
+    "build": "pkg ."
   },
   "repository": {
     "type": "git",
